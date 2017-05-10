@@ -1,0 +1,15 @@
+/* ===== REGISTER ===== */
+
+body {
+  background-color: #00897B;
+}
+
+a, h1{
+  color: white;
+  font-size: 30px;
+  font-family: Arial;
+}
+
+h1, #registerform, #loginform {
+  text-align: center;
+}
